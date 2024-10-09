@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Richie Star
+N:Richie;Star;
+EMAIL;TYPE=work:richie.star@example.com;
+ADR;TYPE=home:;;Thij;Netherlands;
+TEL;TYPE=cell:(051) 9825329;
+UID:urn:uuid:Richie_3e81bdd8-9890-4b03-a4f1-6c9bd493bc44;
+END:VCARD

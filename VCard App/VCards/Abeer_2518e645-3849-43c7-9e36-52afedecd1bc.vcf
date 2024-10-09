@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Abeer Patil
+N:Abeer;Patil;
+EMAIL;TYPE=work:abeer.patil@example.com;
+ADR;TYPE=home:;;Khammam;India;
+TEL;TYPE=cell:7481606577;
+UID:urn:uuid:Abeer_2518e645-3849-43c7-9e36-52afedecd1bc;
+END:VCARD
